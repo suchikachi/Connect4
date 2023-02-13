@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Idt2ElekFJsQR7YEV45rc2azwO8fhJlGGoMkL6hrXTReyXkb7gT+vmleK34YTJGrIEn2Boj6F6Cvt3JiBA8ARg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\richa\\Downloads\\Connect4\\Connect4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\richa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
